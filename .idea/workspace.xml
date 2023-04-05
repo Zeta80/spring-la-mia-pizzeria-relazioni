@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5744ddc-3bf4-4aaf-aef2-e7fc2bbb089e" name="Changes" comment="FINISH crud, need to bonus">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2NgmOv7RW3YnFdwxxo1ZgLnxuk1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/boolean precorso/CORSO BOOLEAN JAVA/spring-la-mia-pizzeria-crud_repo/src/main/resources/templates/pizzas&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\boolean precorso\CORSO BOOLEAN JAVA\spring-la-mia-pizzeria-crud_repo\src\main\resources\templates\pizzas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\boolean precorso\CORSO BOOLEAN JAVA\spring-la-mia-pizzeria-crud_repo\src\main\resources\templates\pizzas\pizzas" />
+      <recent name="G:\boolean precorso\CORSO BOOLEAN JAVA\spring-la-mia-pizzeria-crud_repo\src\main\resources\templates\pizzas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5744ddc-3bf4-4aaf-aef2-e7fc2bbb089e" name="Changes" comment="" />
+      <created>1680094073980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680094073980</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ADD model-databaseTable">
+      <created>1680096605542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680096605542</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ADD index">
+      <created>1680098511101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680098511101</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADD index. adjust">
+      <created>1680100080641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680100080641</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ADD fragments, navbar, boostrap, adjust templates">
+      <created>1680181941244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680181941244</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adjust">
+      <created>1680184197924</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680184197924</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adjust">
+      <created>1680185490498</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680185490498</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finish">
+      <created>1680187684938</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680187684939</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finish">
+      <created>1680268901345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680268901345</updated>
+    </task>
+    <task id="LOCAL-00009" summary="finish, add create page button">
+      <created>1680269215105</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680269215105</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ADD methods, need to html page">
+      <created>1680612714437</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680612714437</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FINISH crud, need to bonus">
+      <created>1680613050407</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680613050407</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD model-databaseTable" />
+    <MESSAGE value="ADD index" />
+    <MESSAGE value="ADD index. adjust" />
+    <MESSAGE value="ADD fragments, navbar, boostrap, adjust templates" />
+    <MESSAGE value="adjust" />
+    <MESSAGE value="Finish" />
+    <MESSAGE value="finish, add create page button" />
+    <MESSAGE value="ADD methods, need to html page" />
+    <MESSAGE value="FINISH crud, need to bonus" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINISH crud, need to bonus" />
+  </component>
+</project>
