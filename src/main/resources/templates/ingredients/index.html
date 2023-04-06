@@ -6,7 +6,7 @@
     <link rel="stylesheet" th:href="@{/webjars/font-awesome/6.3.0/css/all.min.css}">
 </head>
 <body>
-<th:block th:replace="/fragments/navbar :: navbar('categories', '', false)"></th:block>
+<div th:replace="~{fragments/navbar :: navbar}"></div>
 <div class="container">
     <h1>Ingredienti</h1>
     <div class="row">
@@ -14,7 +14,6 @@
             <ul class="list-group">
                 <li class="list-group-item" th:each="item : ${list}">
                     <h5 th:text="${item.name}"></h5>
-                    <p th:text="${item.description}"></p>
                 </li>
             </ul>
         </div>
@@ -22,7 +21,7 @@
             <form
                     id="ingredient-form"
                     method="post"
-                    th:action="@{/ingredients/save}"
+                    th:action="@{/ingredient/save}"
                     th:object="${ingredientObj}"
             >
                 <!-- name -->
@@ -44,10 +43,7 @@
         </div>
     </div>
 
-    <!-- alert only if list is empty -->
-    <th:block th:unless="${list.size() > 0}">
-        <div th:replace="~{/fragments/messages :: alert('INFO', 'The list is empty')}"></div>
-    </th:block>
+
 </div>
 </body>
 </html>

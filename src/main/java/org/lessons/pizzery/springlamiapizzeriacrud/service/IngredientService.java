@@ -17,4 +17,10 @@ public class IngredientService {
     public List<Ingredient> getAll(){
         return ingredientRepository.findAll(Sort.by("name"));
     }
+
+    public Ingredient create(Ingredient formIngredient) {
+        Ingredient ingredientToCreate = new Ingredient();
+        ingredientToCreate.setName(formIngredient.getName());
+        return ingredientRepository.save(ingredientToCreate);
+    }
 }
