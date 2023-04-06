@@ -108,9 +108,9 @@ public class OfferController {
                     "Unable to delete borrowing"));
         }
         if (pizzaId == null) {
-            return "redirect:/books";
+            return "redirect:/pizzas";
         }
-        return "redirect:/books/" + Integer.toString(pizzaId);
+        return "redirect:/pizzas/" + Integer.toString(pizzaId);
     }
 
 }

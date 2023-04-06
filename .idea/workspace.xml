@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5744ddc-3bf4-4aaf-aef2-e7fc2bbb089e" name="Changes" comment="Finish onetomany">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lessons/pizzery/springlamiapizzeriacrud/exceptions/OfferNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lessons/pizzery/springlamiapizzeriacrud/model/AlertMessage.java" afterDir="false" />
+    <list default="true" id="c5744ddc-3bf4-4aaf-aef2-e7fc2bbb089e" name="Changes" comment="ADD finish crud offers, need ingredients">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lessons/pizzery/springlamiapizzeriacrud/model/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lessons/pizzery/springlamiapizzeriacrud/repository/IngredientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lessons/pizzery/springlamiapizzeriacrud/service/IngredientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/ingredients/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/lessons/pizzery/springlamiapizzeriacrud/controllers/OfferController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lessons/pizzery/springlamiapizzeriacrud/controllers/OfferController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lessons/pizzery/springlamiapizzeriacrud/service/OfferService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lessons/pizzery/springlamiapizzeriacrud/service/OfferService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -207,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680701917678</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ADD finish crud offers, need ingredients">
+      <created>1680784373985</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680784373985</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +242,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="ADD offers, service, repository, mapping" />
     <MESSAGE value="Finish onetomany" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish onetomany" />
+    <MESSAGE value="ADD finish crud offers, need ingredients" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD finish crud offers, need ingredients" />
   </component>
 </project>
